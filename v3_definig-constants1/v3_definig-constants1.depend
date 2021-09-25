@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600268671 source:f:\sara\c\v3_definig-constants1\main.c
+	<stdio.h>
+	<stdlib.h>
+
